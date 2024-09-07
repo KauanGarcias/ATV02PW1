@@ -1,4 +1,4 @@
-# Curso Técnico Etec #FF
+# Curso Técnico Etec 
 ## Programação Web
 ### Kauan Garcia
 Conceitos Iniciais em HTML 5 e CSS.
